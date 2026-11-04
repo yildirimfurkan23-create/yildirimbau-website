@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yildirimbau.de/sitemap.xml

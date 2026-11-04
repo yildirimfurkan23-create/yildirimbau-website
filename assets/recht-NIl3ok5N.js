@@ -1,0 +1,1 @@
+document.documentElement.classList.replace(`no-js`,`js`);var e=document.getElementById(`jahr`);e&&(e.textContent=String(new Date().getFullYear()));
